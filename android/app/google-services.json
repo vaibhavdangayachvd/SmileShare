@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "266912133780",
+    "firebase_url": "https://smileshare-8f192.firebaseio.com",
+    "project_id": "smileshare-8f192",
+    "storage_bucket": "smileshare-8f192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266912133780:android:75cf66a8d6ec8f318c7a81",
+        "android_client_info": {
+          "package_name": "com.example.smileshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266912133780-ver74hl9adei4c1aavc2c98qhlr3993v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smileshare",
+            "certificate_hash": "d1e2f8b85dd5737e42ca4b62cdaf3a2544acd9ec"
+          }
+        },
+        {
+          "client_id": "266912133780-b52m45lm41ahsiamgp1cec4isntbv96s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApRlUelytEET5vIl_HBPOw1Qn4Le8xAQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266912133780-b52m45lm41ahsiamgp1cec4isntbv96s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
